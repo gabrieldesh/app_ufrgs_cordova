@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="br.com.bigbangtecnologia.appufrgs" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>AppUfrgs</name>
+    <description>
+        Responda questionários elaborados pelo professor.
+    </description>
+    <author email="thebigbangtecnologia@gmail.com" href="http://bigbangtecnologia.com.br">
+        Big Bang Tecnologia
+    </author>
+    <content src="index.html" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <engine name="android" spec="~6.1.2" />
+</widget>
